@@ -30,6 +30,7 @@ public class VisitHistory extends HttpServlet {
 	 */
 	public VisitHistory() {
 		super();
+		// This is a comment
 		// TODO Auto-generated constructor stub
 	}
 
